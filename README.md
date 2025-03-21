@@ -1,5 +1,6 @@
-https://youtu.be/XIvfQNL8eMU?si=9JnOeLYm1NU-knwz
+
 # AI Resume Screening & Ranking System
+
 
 ## Overview
 This AI-powered resume screening and ranking system uses Natural Language Processing (NLP) and Machine Learning models to analyze and rank resumes based on their relevance to a given job description. It supports both **TF-IDF** and **BERT similarity** for ranking.
@@ -11,6 +12,9 @@ This AI-powered resume screening and ranking system uses Natural Language Proces
 - Provides a **search functionality** to filter resumes by name or keyword.
 - Allows **downloading** of ranked results as CSV.
 - Converts **DOCX resumes to PDF** for easy access.
+
+## Video of Project :  
+    https://youtu.be/XIvfQNL8eMU?si=9JnOeLYm1NU-knwz
 
 ## Installation
 To run this project locally, follow these steps:
