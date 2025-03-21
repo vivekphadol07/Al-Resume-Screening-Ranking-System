@@ -14,7 +14,7 @@ This AI-powered resume screening and ranking system uses Natural Language Proces
 - Converts **DOCX resumes to PDF** for easy access.
 
 ## Video of Project :  
-    https://youtu.be/XIvfQNL8eMU?si=9JnOeLYm1NU-knwz
+https://youtu.be/XIvfQNL8eMU?si=9JnOeLYm1NU-knwz
 
 ## Installation
 To run this project locally, follow these steps:
